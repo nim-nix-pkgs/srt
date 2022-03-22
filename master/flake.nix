@@ -9,7 +9,7 @@
   
   inputs.src-srt-master.flake = false;
   inputs.src-srt-master.owner = "achesak";
-  inputs.src-srt-master.ref   = "refs/heads/master";
+  inputs.src-srt-master.ref   = "master";
   inputs.src-srt-master.repo  = "nim-srt";
   inputs.src-srt-master.type  = "github";
   
